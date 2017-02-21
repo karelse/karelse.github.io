@@ -482,3 +482,7 @@ h6,
 #msg-box3-4 p {
   color: #000;
 }
+#header3-a .mbr-section-title,
+#header3-a .mbr-section-subtitle {
+  text-align: center;
+}
