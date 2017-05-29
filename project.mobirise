@@ -468,7 +468,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/miauw-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/miauw-2000x2666.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "ENA",
@@ -481,7 +481,7 @@
                 "active": false
               },
               {
-                "tags": "ENA",
+                "tags": "123",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -629,6 +629,36 @@
                 "image": "@PROJECT_PATH@/assets/images/123-2000x304.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "123",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x265-800x106.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x265.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "123",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/123rf-2000x938-800x375.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123rf-2000x938.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "123",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/123tbone-2000x583-800x233.jpg",
+                "image": "@PROJECT_PATH@/assets/images/123tbone-2000x583.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
